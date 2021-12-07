@@ -1,2 +1,2 @@
-# C-game-exercise
+# C#-game-exercise
 Personal exerise
